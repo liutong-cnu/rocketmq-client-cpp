@@ -1,3 +1,4 @@
+在rocketmq-client-cpp-master/include目录下跑测试例子，编译代码为：g++ -o SimplePushConsumer SimplePushConsumer.cpp -lrocketmq -lpthread -lz -ldl -lrt -std=c++11
 # RocketMQ-Client-CPP
 [![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
 [![TravisCI](https://travis-ci.org/apache/rocketmq-client-cpp.svg)](https://travis-ci.org/apache/rocketmq-client-cpp)
